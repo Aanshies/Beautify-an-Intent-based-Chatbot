@@ -1,0 +1,100 @@
+[
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Hey",
+                "How are you?",
+                "Good morning",
+                "Good evening"
+            ],
+            "responses": [
+                "Hello! How can I assist you today?",
+                "Hi there! How can I help?",
+                "Hey! How's it going?"
+            ]
+        },
+        {
+            "tag": "skincare",
+            "patterns": [
+                "What is a good skincare routine?",
+                "How can I take care of my skin?",
+                "Tell me about skincare tips",
+                "How to prevent acne?"
+            ],
+            "responses": [
+                "A good skincare routine typically includes cleansing, toning, and moisturizing.",
+                "For acne, try using a gentle cleanser and apply a good moisturizer to prevent dryness.",
+                "Exfoliating once a week helps remove dead skin cells. Also, don't forget sunscreen!"
+            ]
+        },
+        {
+            "tag": "haircare",
+            "patterns": [
+                "How do I take care of my hair?",
+                "Any tips for healthy hair?",
+                "What products should I use for my hair?",
+                "How to prevent hair damage?"
+            ],
+            "responses": [
+                "Use a sulfate-free shampoo and deep condition regularly for healthy hair.",
+                "Avoid excessive heat styling and always use a heat protectant when styling your hair.",
+                "Make sure you're getting enough vitamins for hair growth like Vitamin E and biotin."
+            ]
+        },
+        {
+            "tag": "makeup",
+            "patterns": [
+                "How do I apply makeup?",
+                "Give me makeup tips",
+                "What is the best makeup routine?",
+                "How can I make my makeup last longer?"
+            ],
+            "responses": [
+                "Start with a primer to help your makeup stay on longer, and always use setting spray to finish.",
+                "For a basic makeup routine, use foundation, concealer, mascara, and a lip color.",
+                "Use a light hand when applying makeup and blend well to get a natural look."
+            ]
+        },
+        {
+            "tag": "diet",
+            "patterns": [
+                "What should I eat for healthy skin?",
+                "Any food tips for glowing skin?",
+                "What foods are good for hair growth?"
+            ],
+            "responses": [
+                "For healthy skin, eat foods rich in antioxidants like berries and leafy greens.",
+                "For glowing skin, include foods with vitamin C, such as citrus fruits and tomatoes.",
+                "Include nuts, seeds, and lean proteins in your diet for hair growth."
+            ]
+        },
+        {
+            "tag": "exercise",
+            "patterns": [
+                "How can I get fit?",
+                "Any exercise tips for glowing skin?",
+                "How does exercise help with beauty?"
+            ],
+            "responses": [
+                "Exercise boosts circulation, which helps deliver oxygen and nutrients to your skin.",
+                "Yoga and meditation also help in reducing stress, which can improve your skin health.",
+                "Regular cardio workouts, like running or cycling, help improve overall body health and glow."
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "Goodbye",
+                "See you later",
+                "Take care"
+            ],
+            "responses": [
+                "Goodbye! Have a wonderful day!",
+                "Take care and stay beautiful!",
+                "See you next time! Stay gorgeous!"
+            ]
+        }
+    ]
