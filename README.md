@@ -61,7 +61,7 @@ Beautify is an intelligent beauty and skincare assistant designed to provide per
 ---
 
 🤖 **Try Now:**
-- [Beautify: Link](#) (This can be the link to the hosted application)
+- [Beautify: Link](https://beautify-an-intent-based-chatbot-cfk7z55rqzuv9cyaj6mrzy.streamlit.app/) (This can be the link to the hosted application)
 
 ---
 
