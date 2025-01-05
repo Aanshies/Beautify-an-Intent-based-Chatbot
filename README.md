@@ -88,12 +88,6 @@ Beautify is an intelligent beauty and skincare assistant designed to provide per
 
 ---
 
-### **assets/**
-
-- A directory for storing additional resources like pre-downloaded datasets or NLTK data files.
-
----
-
 ### **📬 Contact**
 
 If you have any questions, feedback, or suggestions, feel free to reach out:
