@@ -101,7 +101,7 @@ If you have any questions, feedback, or suggestions, feel free to reach out:
 - **Author:** Eswari Marthurthi
 - **Email:** eswarimarthurthi@gmail.com
 - **GitHub:** [Github](https://github.com/Aanshies)
-- **LinkedIn:** [LinkedIn](www.linkedin.com/in/eswari-marthurthi-74a8a9286)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/eswari-marthurthi-74a8a9286)
 
 We appreciate your interest in Beautify, and we look forward to hearing from you!
 
