@@ -55,7 +55,8 @@ Beautify is an intelligent beauty and skincare assistant designed to provide per
 
 ### **Screenshots**
 
-- Screenshots of the chatbot in action (to be added later).
+![image](https://github.com/user-attachments/assets/8bae26f0-19ed-4d60-8c9d-5266704c00b0)
+
 
 ---
 
@@ -99,8 +100,8 @@ If you have any questions, feedback, or suggestions, feel free to reach out:
 
 - **Author:** Eswari Marthurthi
 - **Email:** eswarimarthurthi@gmail.com
-- **GitHub:** [https://github.com/Aanshies]
-- **LinkedIn:** [www.linkedin.com/in/eswari-marthurthi-74a8a9286]
+- **GitHub:** [Github](https://github.com/Aanshies)
+- **LinkedIn:** [LinkedIn](www.linkedin.com/in/eswari-marthurthi-74a8a9286)
 
 We appreciate your interest in Beautify, and we look forward to hearing from you!
 
